@@ -1,4 +1,4 @@
-<img src="https://github.com/dillon/Masternode-Status/blob/master/Pictures/icon_128x128@2x.png" width="200">  
+<img src="https://github.com/dillon/Masternode-Status/blob/master/Pictures/icon_128x128@2x.png" width="150">  
 
 # Masternode-Status
 
